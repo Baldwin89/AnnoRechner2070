@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anno 2070 Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Button_Start">Start</string>
+    <string name="title_activity_inhabitant">InhabitantActivity</string>
+    <string name="Button_Inhabitants">Inhabitants</string>
+    <string name="Button_Production">Production</string>
+    <string name="title_activity_production">ProductionActivity</string>
+
+</resources>
